@@ -1,0 +1,6 @@
+reels/
+calendar/
+footage.json
+footage-thumbs/
+.DS_Store
+__pycache__/
